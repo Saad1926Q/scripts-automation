@@ -1,8 +1,8 @@
-## 🐚 Shell Scripts for Automating Some of the Boring Tasks 😴🥱
+## Shell Scripts for Automating Some of the Boring Tasks 😴🥱
 
-Also a chance for me to learn a bit of shell scripting while we're at it! 🚀
+Also a chance for me to learn a bit of shell scripting while we're at it! 
 
-### 🔧 `init_mlproject.sh`
+### `init_mlproject.sh`
 
 A simple shell script to quickly set up a basic machine learning project. It does the following:
 
